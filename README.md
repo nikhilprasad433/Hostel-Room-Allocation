@@ -25,6 +25,15 @@ A Java Swing + MySQL project for managing student hostel room allocation.
 4. Open the project in VS Code or IntelliJ
 5. Run `HostelGUI.java`
 
+   ## Database Setup
+
+1. Create the database in MySQL:
+
+```sql
+CREATE DATABASE hostel_db;
+USE hostel_db;
+
+
 
 ## 👨‍💻 Contributors
 - Nikhl Prasad
