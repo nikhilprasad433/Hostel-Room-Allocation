@@ -1,3 +1,4 @@
+
 import java.sql.Date;
 
 public class Allocation {
@@ -29,3 +30,4 @@ public class Allocation {
         return allocatedDate;
     }
 }
+
